@@ -124,7 +124,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #3e3e3e;
+		color: #9900ff;
 	}
 
 	i, em {
@@ -1842,11 +1842,11 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-google-plus {
-					background-color: #DA2713;
+					background-color: #ff0000;
 				}
 
 				ul.social li a.fa-github {
-					background-color: #FAFAFA;
+					background-color: #6f00ff;
 				}
 
 				ul.social li a.fa-rss {
@@ -1871,6 +1871,10 @@ input, select, textarea {
 
 				ul.social li a.fa-youtube {
 					background-color: #BF2E25;
+				}
+
+				ul.social li a.fa-gmail {
+					background-color: #25bf99;
 				}
 
 				ul.social li a.fa-blogger {
